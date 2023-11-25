@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* #fundo-site{
+    position: absolute;
+    height: 500vh;
+    width: 100vw;
+} */
+
+body {
+    position: absolute;
+    background-color: #dde5b6;
+    
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 19px;
+    box-shadow: 0 0 1rem 1rem #ccc;
+    width: 100%;
+    background: var(--white);
+    background-color: #588157;
+    gap: 1rem;
+    top: 0;
+    z-index: 999;
+    position: fixed;
+}
+
+#logo {
+    height: 3.1rem;
+
+}
+
+.nomesite1 {
+    font-size: 1.5rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: bold;
+
+}
+
+.sobre {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    transition: 0.3s;
+    font-size: 1.4rem;
+}
+
+.sobre:hover {
+    color: #85182A;
+
+}
+
+.barrinha {
+    color: white;
+
+}
+
+.titulo-site {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.2rem;
+    top: 9rem;
+    left: 3rem;
+    position: absolute;
+
+}
+
+.barra {
+    border: 0.18rem solid #85182A;
+    border-radius: .2rem;
+    width: 37rem;
+    position: absolute;
+    top: 3.2rem;
+
+}
+
+.legenda {
+    position: absolute;
+    display: grid;
+    left: 71rem;
+    top: 16.5rem;
+    border: #222121 solid;
+    height: 5rem;
+    width: 10rem;
+    border-radius: .3rem;
+    background-color: #fff
+}
+
+#top-1 {
+    width: 1.5vw;
+    height: 3vh;
+    border: .18rem solid #00b4d8;
+    background-color: #fff;
+    position: absolute;
+    left: .2rem;
+    top: .3rem;
+}
+
+#top-2 {
+    width: 1.5vw;
+    height: 3vh;
+    border: .18rem solid #70e000;
+    background-color: #fff;
+    position: absolute;
+    left: .2rem;
+    top: 1.8rem;
+}
+
+#top-3 {
+    width: 1.5vw;
+    height: 3vh;
+    border: .18rem solid #d00000;
+    background-color: #fff;
+    position: absolute;
+    left: .2rem;
+    top: 3.3rem;
+}
+
+
+
+.top1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: .8rem;
+    position: absolute;
+    top: .5rem;
+    left: 1.7rem;
+    font-weight: bold;
+}
+
+
+.top2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: .8rem;
+    left: .5rem;
+    position: absolute;
+    top: 2rem;
+    left: 1.7rem;
+    font-weight: bold;
+}
+
+.top3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: .8rem;
+    left: .5rem;
+    position: absolute;
+    top: 3.5rem;
+    left: 1.7rem;
+    font-weight: bold;
+}
+
+#verificadoa {
+    position: absolute;
+    height: 1rem;
+    top: .3rem;
+    left: .35rem;
+
+}
+
+#verificadov {
+    position: absolute;
+    height: .9rem;
+    top: 2rem;
+    left: .4rem;
+
+}
+
+#verificadop {
+    position: absolute;
+    height: .9rem;
+    top: 3.6rem;
+
+}
+
+.rodape {
+    background-color: #588157;
+    padding-bottom: 4rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2rem;
+    height: 4rem;
+}
+
+.sobrenosparte {
+    position: relative;
+    border: 5px #85182A solid;
+    border-radius: 20px;
+    display: flex;
+    padding: 3rem;
+    margin: 0rem 10rem 10rem 10rem;
+    height: 30rem;
+}
+
+.sobrenostxt {
+    position: absolute;
+    top: -18px;
+    background: #dde5b6;
+    padding: 0 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    left: 32vw;
+    display: flex;
+
+}
+
+
+
+
+#sobre-texto {
+
+    text-align: justify;
+    font-size: 17px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+
+}
+
+
+#imgnos {
+    height: 21rem;
+    width: 35vw;
+}
+
+
+/* Teste */
+.sobre-container {
+    display: flex;
+    gap: 2rem;
+}
+
+@media (max-width: 900px) {
+    .sobre-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

@@ -1,0 +1,490 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+.corpo {
+    margin-top: 15rem;
+    position: relative;
+    height: 1000px;
+    width: 85%;
+}
+
+#img-1 {
+    height: 18rem;
+    width: 35rem;
+    border-radius: .5rem;
+}
+
+.text-1 {
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 2rem;
+    text-align: justify;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.mensagem-1 {
+    position: absolute;
+    justify-content: center;
+    text-align: justify;
+    padding: 1rem;
+    top: 50%;
+    width: 30vw;
+    height: 30vh;
+    background-color: #ffee99;
+    border: .2rem solid #588157;
+    border-radius: 1rem;
+    display: none;
+    z-index: 999;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container-1 {
+    background-color: #ffee99;
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    left: 96.3vh;
+    bottom: 0vh;
+    top: -41vh;
+    overflow-y: scroll;
+    color: #FFF;
+    padding: 1.5rem;
+    text-align: center;
+    width: 45vw;
+    height: 150vh;
+    z-index: 999;
+    
+}
+
+
+.img-23 {
+    display: flex;
+    position: absolute;
+    top: 62%;
+    left: 82.5%;
+    transform: rotate(105deg);
+}
+
+.img-22 {
+    display: flex;
+    position: absolute;
+    top: 63%;
+    left: 78%;
+    transform: rotate(135deg);
+}
+
+.img-21 {
+    display: flex;
+    position: absolute;
+    top: 62%;
+    left: 73%;
+    transform: rotate(175deg);
+}
+
+.img-20 {
+    display: flex;
+    position: absolute;
+    top: 40%;
+    left: 89%;
+    transform: rotate(430deg);
+}
+
+.img-19 {
+    display: flex;
+    position: absolute;
+    top: 35%;
+    left: 89.4%;
+    transform: rotate(400deg);
+}
+
+.img-18 {
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 89%;
+    transform: rotate(379deg);
+}
+
+.img-17 {
+    display: flex;
+    position: absolute;
+    top: 62%;
+    left: 32.5%;
+    transform: rotate(120deg);
+}
+
+.img-16 {
+    display: flex;
+    position: absolute;
+    top: 62%;
+    left: 28%;
+    transform: rotate(150deg);
+}
+
+.img-15 {
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 24%;
+    transform: rotate(180deg);
+}
+
+.img-14 {
+    display: flex;
+    position: absolute;
+    top: 40%;
+    left: 23%;
+    transform: rotate(205deg);
+}
+
+.img-13 {
+    display: flex;
+    position: absolute;
+    top: 35%;
+    left: 23%;
+    transform: rotate(225deg);
+}
+
+.img-12 {
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 23%;
+    transform: rotate(250deg);
+}
+
+.img-11 {
+    display: flex;
+    position: absolute;
+    top: 12%;
+    left: 84%;
+    transform: rotate(350deg);
+}
+
+.img-10 {
+    display: flex;
+    position: absolute;
+    top: 12%;
+    left: 78%;
+    transform: rotate(300deg);
+}
+
+.img-9 {
+    display: flex;
+    position: absolute;
+    top: 13%;
+    left: 72%;
+    transform: rotate(269deg);
+}
+
+.img-8 {
+    display: flex;
+    position: absolute;
+    top: 12%;
+    left: 34%;
+    transform: rotate(329deg);
+}
+
+.img-7 {
+    display: flex;
+    position: absolute;
+    top: 12%;
+    left: 28%;
+    transform: rotate(290deg);
+}
+
+.img-6 {
+    display: flex;
+    position: absolute;
+    top: 13%;
+    left: 22%;
+    transform: rotate(260deg);
+}
+
+.img-5 {
+    display: flex;
+    position: absolute;
+    top: 44%;
+    left: 70%;
+    transform: rotate(440deg)
+}
+
+.img-4 {
+    display: flex;
+    position: absolute;
+    top: 37%;
+    left: 70%;
+    transform: rotate(400deg);
+}
+
+.img-3 {
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: rotate(360deg);
+}
+
+.img-2 {
+    display: flex;
+    position: absolute;
+    top: 44%;
+    left: 43%;
+    transform: rotate(185deg);
+}
+
+.img-1 {
+    display: flex;
+    position: absolute;
+    top: 37%;
+    left: 43%;
+    transform: rotate(225deg);
+}
+
+.img {
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 43%;
+    transform: rotate(260deg);
+}
+
+.direita-8 {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 86%;
+}
+
+.direita-7 {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 74%;
+}
+
+.direita-6 {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 62%;
+}
+
+.direita-5 {
+    display: flex;
+    position: absolute;
+    top: 43%;
+    left: 97%;
+
+}
+
+.direita-4 {
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 97%;
+}
+
+.direita-3 {
+    display: flex;
+    position: absolute;
+    top: 25%;
+    left: 97%;
+}
+
+.direita-2 {
+    display: flex;
+    position: absolute;
+    top: 2%;
+    left: 86%
+}
+
+.direita-1 {
+    display: flex;
+    position: absolute;
+    top: 2%;
+    left: 74%;
+}
+
+.direita {
+    display: flex;
+    position: absolute;
+    top: 2%;
+    left: 62%;
+}
+
+.esquerda-8 {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 34%
+}
+
+.esquerda-7 {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 22%
+}
+
+.esquerda-6 {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 10%
+}
+
+.esquerda-5 {
+    display: flex;
+    position: absolute;
+    top: 43%;
+    left: 10%
+}
+
+.esquerda-4 {
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 10%
+}
+
+.esquerda-3 {
+    display: flex;
+    position: absolute;
+    top: 25%;
+    left: 10%
+}
+
+.esquerda-2 {
+    display: flex;
+    position: absolute;
+    top: 2%;
+    left: 34%
+}
+
+.esquerda-1 {
+    display: flex;
+    position: absolute;
+    top: 2%;
+    left: 22%;
+}
+
+.esquerda {
+    display: flex;
+    position: absolute;
+    top: 2%;
+    left: 10%;
+}
+
+.central-6 {
+    display: flex;
+    position: absolute;
+    top: 49%;
+    left: 78%;
+}
+
+.central-5 {
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 78%;
+}
+
+.central-4 {
+    display: flex;
+    position: absolute;
+    top: 19%;
+    left: 78%;
+}
+
+.central-3 {
+    display: flex;
+    position: absolute;
+    top: 49%;
+    left: 29%;
+}
+
+.central-2 {
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 29%;
+}
+
+.central-1 {
+    display: flex;
+    position: absolute;
+    top: 19%;
+    left: 29%;
+}
+
+.central {
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+}
+
+.botao-central {
+    border: 0;
+    height: 8rem;
+    width: 12.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #ffa200;
+    font-size: 29px;
+    border-radius: 1.3rem;
+}
+
+.botao-1 {
+    border: .2rem solid #00b4d8;
+    height: 7rem;
+    width: 7rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #593493;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+}
+
+.botao-2 {
+    border: .2rem solid #d00000;
+    height: 7rem;
+    width: 7rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #f08024;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+}
+
+.botao-3 {
+    border: .2rem solid #00b4d8;
+    height: 5rem;
+    width: 7rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #FFF;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+}
+
+.botao-4 {
+    height: 5rem;
+    border: .2rem solid #70e000;
+    width: 7rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #FFF;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+}
