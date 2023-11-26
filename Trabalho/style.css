@@ -13,16 +13,10 @@ html {
     scroll-behavior: smooth;
 }
 
-/* #fundo-site{
-    position: absolute;
-    height: 500vh;
-    width: 100vw;
-} */
-
 body {
     position: absolute;
-    background-color: #dde5b6;
-    
+    background-color: #FFF;
+   
 }
 
 .navigation {
@@ -30,7 +24,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 19px;
-    box-shadow: 0 0 1rem 1rem #ccc;
+    box-shadow: 0 0 1rem .4rem #2a3c24;
     width: 100%;
     background: var(--white);
     background-color: #588157;
@@ -92,13 +86,15 @@ body {
 .legenda {
     position: absolute;
     display: grid;
-    left: 71rem;
-    top: 16.5rem;
+    left: 73rem;
+    top: 16.4rem;
+    background-color: #f4acb7;
     border: #222121 solid;
-    height: 5rem;
+    height: 5.4rem;
+    padding: 1rem;
     width: 10rem;
     border-radius: .3rem;
-    background-color: #fff
+
 }
 
 #top-1 {
@@ -114,7 +110,7 @@ body {
 #top-2 {
     width: 1.5vw;
     height: 3vh;
-    border: .18rem solid #70e000;
+    border: .18rem solid #6930c3;
     background-color: #fff;
     position: absolute;
     left: .2rem;
@@ -204,12 +200,13 @@ body {
     padding: 3rem;
     margin: 0rem 10rem 10rem 10rem;
     height: 30rem;
+
 }
 
 .sobrenostxt {
     position: absolute;
     top: -18px;
-    background: #dde5b6;
+    background: #fff;
     padding: 0 15px;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 2rem;
@@ -232,8 +229,7 @@ body {
 
 
 #imgnos {
-    height: 21rem;
-    width: 35vw;
+    height: 20rem;
 }
 
 
@@ -241,6 +237,7 @@ body {
 .sobre-container {
     display: flex;
     gap: 2rem;
+    
 }
 
 @media (max-width: 900px) {
