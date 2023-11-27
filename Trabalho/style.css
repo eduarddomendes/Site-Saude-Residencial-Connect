@@ -16,7 +16,7 @@ html {
 body {
     position: absolute;
     background-color: #FFF;
-   
+
 }
 
 .navigation {
@@ -67,7 +67,7 @@ body {
 
 .titulo-site {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     top: 9rem;
     left: 3rem;
     position: absolute;
@@ -79,7 +79,7 @@ body {
     border-radius: .2rem;
     width: 37rem;
     position: absolute;
-    top: 3.2rem;
+    top: 2.8rem;
 
 }
 
@@ -214,13 +214,10 @@ body {
 
 }
 
-
-
-
 #sobre-texto {
 
     text-align: justify;
-    font-size: 17px;
+    font-size: 1rem;
     font-family: 'Lato', sans-serif;
     font-weight: bold;
 
@@ -229,20 +226,110 @@ body {
 
 #imgnos {
     height: 20rem;
+    width: 32rem;
 }
 
-
-/* Teste */
 .sobre-container {
     display: flex;
     gap: 2rem;
-    
+    padding: .5rem;
 }
 
-@media (max-width: 900px) {
+@media screen and (max-width: 600px) {
+
+    /* Parte Superior Site */
+
+    .nomesite1 {
+        font-size: 1.3rem;
+    }
+
+    /* .barra {
+
+      width: auto;
+    
+    } */
+
+    body {
+        top: 3.5rem;
+
+    }
+
+    .navigation {
+        position: fixed;
+        height: 25vh;
+        justify-content: left;
+        padding: 2rem;
+
+    }
+
+    .sobre {
+        display: none;
+
+    }
+
+    /* .texto-titulo-site {
+        font-size: 1.5rem;
+
+    } */
+
+    .titulo-site, .texto-titulo-site{
+        font-size: 1.5rem;
+        max-width: 59vw;
+        left: 1rem;
+    }
+
+    .barra{
+        max-width: 65vw;
+        margin-top: .5rem;
+    }
+
+    .barrinha {
+        display: none;
+
+    }
+
     .sobre-container {
         display: flex;
         flex-direction: column;
+
     }
+
+    .legenda{
+        position: absolute;
+        left: 3rem;
+        height: 16vh;
+        max-width: 60vw;
+     
+        
+        
+    }
+
+    #top-1, #top-2, #top-3{
+       
+        width: 5vw;
+    }
+
+    /* Parte Mapa */
+
+    .corpo{
+
+        top: 9rem;
+        
+    }
+
+
+
+    .botao-central{
+        position: absolute;
+        left: -20rem;
+        bottom: 10rem;
+      
+    }
+    
+    #img {
+
+        position: absolute;
+       
+    } 
 
 }
