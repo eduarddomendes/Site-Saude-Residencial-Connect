@@ -86,12 +86,11 @@ body {
 .legenda {
     position: absolute;
     display: grid;
-    left: 73rem;
+    left: 86%;
     top: 16.4rem;
-    background-color: #f4acb7;
+    background-color: #ffcad4;
     border: #222121 solid;
     height: 5.4rem;
-    padding: 1rem;
     width: 10rem;
     border-radius: .3rem;
 
@@ -110,7 +109,7 @@ body {
 #top-2 {
     width: 1.5vw;
     height: 3vh;
-    border: .18rem solid #6930c3;
+    border: .18rem solid #70e000;
     background-color: #fff;
     position: absolute;
     left: .2rem;

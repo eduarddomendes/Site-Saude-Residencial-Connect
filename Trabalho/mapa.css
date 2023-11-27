@@ -10,42 +10,46 @@ html {
     height: 1000px;
     width: 85%;
 }
+
 #img-23 {
     height: 18rem;
-    width: 35rem;
+    width: 28rem;
     border-radius: .5rem;
 }
+
 #img-22 {
-    height: 18rem;
-    width: 35rem;
+    height: 17rem;
+    width: 29rem;
     border-radius: .5rem;
 }
+
 #img-21 {
     height: 18rem;
-    width: 35rem;
+    width: 29rem;
     border-radius: .5rem;
 }
+
 #img-20 {
     height: 18rem;
-    width: 35rem;
+    width: 29rem;
     border-radius: .5rem;
 }
 
 #img-19 {
-    height: 18rem;
-    width: 35rem;
+    height: 17rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
 #img-18 {
     height: 18rem;
-    width: 35rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
 #img-17 {
-    height: 18rem;
-    width: 35rem;
+    height: 17rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
@@ -57,19 +61,19 @@ html {
 
 #img-15 {
     height: 18rem;
-    width: 35rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
 #img-14 {
     height: 18rem;
-    width: 35rem;
+    width: 32rem;
     border-radius: .5rem;
 }
 
 #img-13 {
     height: 18rem;
-    width: 35rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
@@ -81,19 +85,19 @@ html {
 
 #img-11 {
     height: 18rem;
-    width: 35rem;
+    width: 32rem;
     border-radius: .5rem;
 }
 
 #img-10 {
     height: 18rem;
-    width: 35rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
 #img-9 {
     height: 18rem;
-    width: 35rem;
+    width: 28rem;
     border-radius: .5rem;
 }
 
@@ -105,31 +109,31 @@ html {
 
 #img-7 {
     height: 18rem;
-    width: 35rem;
+    width: 28rem;
     border-radius: .5rem;
 }
 
 #img-6 {
     height: 18rem;
-    width: 35rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
 #img-5 {
-    height: 18rem;
-    width: 35rem;
+    height: 19rem;
+    width: 30rem;
     border-radius: .5rem;
 }
 
 #img-4 {
-    height: 18rem;
-    width: 35rem;
+    height: 20rem;
+    width: 32rem;
     border-radius: .5rem;
 }
 
 #img-3 {
     height: 18rem;
-    width: 35rem;
+    width: 29rem;
     border-radius: .5rem;
 }
 
@@ -141,7 +145,7 @@ html {
 
 #img-1 {
     height: 18rem;
-    width: 35rem;
+    width: 32rem;
     border-radius: .5rem;
 }
 
@@ -164,6 +168,7 @@ html {
     color: black;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 2rem;
+
     text-align: justify;
     padding-left: .5rem;
     padding-right: .5rem;
@@ -372,10 +377,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 85%;
+    left: -8rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -389,10 +395,10 @@ html {
     text-align: justify;
     padding: 1rem;
     top: 60%;
-    left: -5.5rem;
+    left: -6rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #f4acb7;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -405,10 +411,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 60%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #f4acb7;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -421,10 +428,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 60%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -437,10 +445,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 72%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -453,10 +462,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 60%;
+    left: -6rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -469,10 +479,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 60%;
+    left: -6rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -485,11 +496,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
-
+    top: 60%;
+    left: -6rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -502,10 +513,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 60%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -518,10 +530,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
+    left: -6rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -534,10 +547,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -550,10 +564,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -566,10 +581,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 85%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -582,10 +598,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
+    left: -8rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -598,10 +615,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -614,11 +632,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
     left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -631,11 +649,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 75%;
     left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -648,11 +666,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
     left: -11.5rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -665,11 +683,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
     left: -11.5rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -682,11 +700,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
+    top: 65%;
     left: -11.5rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -699,11 +717,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
-    left: -11.5rem;
+    top: 70%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -716,11 +734,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
-    left: -11.5rem;
+    top: 60%;
+    left: -8rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -733,11 +751,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
-    left: -11.5rem;
+    top: 60%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -750,11 +768,11 @@ html {
     justify-content: center;
     text-align: justify;
     padding: 1rem;
-    top: 50%;
-    left: -11.5rem;
+    top: 60%;
+    left: -9rem;
     width: 30vw;
-    height: 30vh;
-    background-color: #dde5b6;
+    height: auto;
+    background-color: #ffcad4;
     border: .2rem solid #588157;
     border-radius: 1rem;
     display: none;
@@ -763,386 +781,363 @@ html {
 }
 
 .container {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 25.1rem;
     top: -21.4rem;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-1 {
-    background-color: #f4acb7;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 38.7rem;
     top: -26.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-2 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 30.1rem;
     top: -26.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-3 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 21.5rem;
     top: -26.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-4 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 25.1rem;
     top: -75.6vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-5 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 38.7rem;
     top: -61.7vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     padding: 1.5rem;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-6 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 38.7rem;
     top: -75.6vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-7 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 38.7rem;
     top: -89.4vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-8 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 25.1rem;
     top: -98.6vh;
-    overflow-y: scroll;
     color: #FFF;
+    padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-9 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 38.7rem;
     top: -130.9vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-10 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 30.1rem;
     top: -130.9vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-11 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: 21.5rem;
     top: -130.9vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-12 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -56rem;
     top: -52.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-13 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -44.5rem;
     top: -26.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-14 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -53.1rem;
     top: -26.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-15 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -61.7rem;
     top: -26.5vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-16 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -55.9rem;
     top: -75.6vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-17 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -69.5rem;
     top: -61.7vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-18 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -69.5rem;
     top: -75.55vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-19 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -69.5rem;
     top: -89.4vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-20 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -55.9rem;
     top: -98.6vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-21 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -44.5rem;
     top: -130.9vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-22 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -53.1rem;
     top: -130.9vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
 .container-23 {
-    background-color: #dde5b6;
+    background-color: #ffcad4;
     display: none;
     flex-direction: column;
     position: absolute;
     left: -61.7rem;
     top: -130.9vh;
-    overflow-y: scroll;
     color: #FFF;
     padding: 1.5rem;
     text-align: center;
     width: 45vw;
-    height: 150vh;
+    height: auto;
     z-index: 999;
 }
 
@@ -1490,7 +1485,7 @@ html {
     display: flex;
     position: absolute;
     top: 49%;
-    left: 29%;
+    left: 28.5%;
 }
 
 .central-2 {
@@ -1539,18 +1534,6 @@ html {
 }
 
 .botao-2 {
-    border: .2rem solid #d00000;
-    height: 7rem;
-    width: 7rem;
-    font-weight: bold;
-    font-family: 'Just Another Hand', cursive;
-    color: black;
-    background-color: #f08024;
-    font-size: 1.4rem;
-    border-radius: 1.3rem;
-}
-
-.botao-3 {
     border: .2rem solid #00b4d8;
     height: 5rem;
     width: 7rem;
@@ -1562,9 +1545,35 @@ html {
     border-radius: 1.3rem;
 }
 
+.botao-3 {
+    border: .2rem solid #d00000;
+    height: 5rem;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
 .botao-4 {
     height: 5rem;
-    border: .2rem solid #6930c3;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-5 {
+    border: .2rem solid #00b4d8;
+    height: 7rem;
     width: 7rem;
     font-weight: bold;
     font-family: 'Just Another Hand', cursive;
@@ -1572,4 +1581,240 @@ html {
     background-color: #aafcb8;
     font-size: 1.4rem;
     border-radius: 1.3rem;
+}
+
+.botao-6 {
+    height: 5rem;
+    border: .2rem solid #70e000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-7 {
+    height: 5rem;
+    border: .2rem solid #00b4d8;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-8 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-9 {
+    height: 7rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-10 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-11 {
+    height: 5rem;
+    border: .2rem solid #00b4d8;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-12 {
+    height: 5rem;
+    border: .2rem solid #70e000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-13 {
+    height: 7rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-14 {
+    height: 5rem;
+    border: .2rem solid #70e000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-15 {
+    height: 5rem;
+    border: .2rem solid #00b4d8;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-16 {
+    height: 5rem;
+    border: .2rem solid #00b4d8;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-17 {
+    height: 7rem;
+    border: .2rem solid #00b4d8;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+
+.botao-18 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}
+.botao-19 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}.botao-20 {
+    height: 5rem;
+    border: .2rem solid #70e000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}.botao-21 {
+    height: 7rem;
+    border: .2rem solid #70e000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}.botao-22 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}.botao-23 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
+}.botao-24 {
+    height: 5rem;
+    border: .2rem solid #d00000;
+    width: 7.5rem;
+    font-weight: bold;
+    font-family: 'Just Another Hand', cursive;
+    color: black;
+    background-color: #aafcb8;
+    font-size: 1.4rem;
+    border-radius: 1.3rem;
+
 }
